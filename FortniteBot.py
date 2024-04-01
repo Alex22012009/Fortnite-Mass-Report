@@ -41,7 +41,7 @@ def play_error_sound():
 
 if __name__ == "__main__":
     ascii_art()
-    username = input("[?] Enter the TikTok username: ")
+    username = input("[?] Enter the Fortnite username: ")
     print(f"[] Reporting account: {username}\n")
     hacking_animation(50)
     
